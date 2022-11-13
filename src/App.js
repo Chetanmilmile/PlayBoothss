@@ -1,5 +1,5 @@
 
-import {BrowserRouter,BrowserRouter as ,Route,Routes}from'react-router-dom';
+import {BrowserRouter,BrowserRouter as Route,Routes}from'react-router-dom';
 import Home from './Screens/Home';
 import Playground from './Screens/Platground';
 import Error from './Screens/Error';
