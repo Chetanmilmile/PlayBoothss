@@ -1,5 +1,5 @@
 import React from 'react'
-import { icons } from 'react-icons'
+// import { icons } from 'react-icons'
 import styled from 'styled-components'
 import {IoTrashOutline} from 'react-icons/io5'
 import { BiEditAlt } from 'react-icons/bi'
