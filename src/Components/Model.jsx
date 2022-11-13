@@ -24,7 +24,7 @@ box-shadow: 5px 10px #2f2f2f;
 const Model = ()=>{
 
 
-  const type ={5};
+  const type =5;
   return (
     <ModelContainer>
         <ModelContent>
